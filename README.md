@@ -20,28 +20,6 @@ JavaScript: Adds interactivity and handles API requests.
 
 Images: Utilized for UI elements and ticket illustrations.
 
-
-Getting Started
-1. Clone the Repository
-sh
-Copy code
-git clone https://github.com/yourusername/ticket-booking-ui.git
-cd ticket-booking-ui
-2. Open the Project
-Open the project directory in your preferred code editor (VS Code, Sublime Text, etc.).
-
-3. Serve the Application
-You can use a local server to serve the application. If you have Python installed, you can use the following command:
-
-sh
-Copy code
-# For Python 3.x
-python -m http.server 8000
-Open your browser and navigate to http://localhost:8000 to view the application.
-
-Project Structure
-css
-Copy code
 ticket-booking-ui/
 ├── index.html
 ├── styles/
